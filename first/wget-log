@@ -1,6 +1,0 @@
---2019-02-24 14:13:44--  https://hackerrank-challenge-pdfs.s3.amazonaws.com/2532-solve-me-first-English?AWSAccessKeyId=AKIAJ4WZFDFQTZRGO3QA
-Resolving hackerrank-challenge-pdfs.s3.amazonaws.com (hackerrank-challenge-pdfs.s3.amazonaws.com)... 52.216.138.187
-Connecting to hackerrank-challenge-pdfs.s3.amazonaws.com (hackerrank-challenge-pdfs.s3.amazonaws.com)|52.216.138.187|:443... connected.
-HTTP request sent, awaiting response... 403 Forbidden
-2019-02-24 14:13:45 ERROR 403: Forbidden.
-
