@@ -6,7 +6,7 @@ The structure of this repository is as follows:
 
 ```
 algo/
-    problemname/
+    n-problemname/		    # problem number and name
         problemname-statement.pdf   # problem statement
         problemname.go              # solution in golang or other language
         ...
